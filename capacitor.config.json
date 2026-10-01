@@ -1,0 +1,8 @@
+{
+  "appId": "com.crowddominion.game",
+  "appName": "Crowd Dominion",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
